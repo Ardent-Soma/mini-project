@@ -1,0 +1,14 @@
+===== Simple System Inventory Report =====
+Date and Time: Thu, Mar 27, 2025 10:42:39 PM
+==========================================
+
+[CPU Information]
+
+[Memory Information]
+
+[Disk Information]
+
+[Installed Packages]
+No supported package manager found.
+
+[Running Services]
