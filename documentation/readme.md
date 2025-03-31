@@ -49,6 +49,7 @@ Each of these tasks has been implemented as scripts stored in the `scripts/` fol
 - Configure SSH key-based authentication
 - Implement firewall rules (iptables/ufw)
 - Create a private network between servers
+Since the IP addresses are static and they are class A which are private IP range. Also in the subnet. They are automatically in a private network.  
 - Configure and test DNS resolution
 
 ### Network Documentation
